@@ -5,3 +5,6 @@ public class NewTest {
   public void f() {
   }
 }
+public class Dummy {
+  
+}
